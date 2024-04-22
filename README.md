@@ -12,7 +12,7 @@ This fitness tracker app is aimed at tracking daily calorie intake and workouts.
 
 ## Video Link
 ```
-    https://drive.google.com/file/d/1N8DNfrub6njbQq9xSH00CxG3ecVHAOzo/view?usp=sharing
+    [https://drive.google.com/file/d/1N8DNfrub6njbQq9xSH00CxG3ecVHAOzo/view?usp=sharing](https://drive.google.com/file/d/1N8DNfrub6njbQq9xSH00CxG3ecVHAOzo/view?usp=sharing)
 ```
 
 # Screenshots of the working App
