@@ -41,7 +41,7 @@ This fitness tracker app is aimed at tracking daily calorie intake and workouts.
 
 ### 5. Progress Tracking:
 
-    Here, users can view their progress over time, including their daily calorie intake and workout achievements you can view your previously recorded data in the add new day screen.
+--> Here, users can view their progress over time, including their daily calorie intake and workout achievements you can view your previously recorded data in the add new day screen.
 
 ![stored values](images/s6.png)
 
