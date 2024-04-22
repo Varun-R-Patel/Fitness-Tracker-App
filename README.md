@@ -18,5 +18,5 @@ This fitness tracker app is aimed at tracking daily calorie intake and workouts.
 This is the main screen of the app which shows Welcome to FitnessApp! Start your fitness journey by tracking your calories and workouts.
 ```
 
-[!Homescreen](images/s1.png)
+![Homescreen](images/s1.png)
 
