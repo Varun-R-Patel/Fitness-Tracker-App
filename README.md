@@ -14,20 +14,20 @@ This fitness tracker app is aimed at tracking daily calorie intake and workouts.
 
 ### 1. Home Screen
 
-  This is the main screen of the app which shows Welcome to FitnessApp! Start your fitness journey by tracking your calories and workouts.
+    This is the main screen of the app which shows Welcome to FitnessApp! Start your fitness journey by tracking your calories and workouts.
 
 
 ![Homescreen](images/s1.png)
 
 ### 2. Add a new day screen:
 
-  Record your daily progress by adding a new day, where you can input your calorie intake and track your activities.
+    Record your daily progress by adding a new day, where you can input your calorie intake and track your activities.
 
 ![FitnessApp Screen](images/s2.png)
 
 ### 3. Adding Calories Screen:
 
-  Easily add your daily calorie intake from food and workouts to stay on top of your fitness goals.
+    Easily add your daily calorie intake from food and workouts to stay on top of your fitness goals.
 
 ![Entering calories](images/s3.png)
 
@@ -35,13 +35,13 @@ This fitness tracker app is aimed at tracking daily calorie intake and workouts.
 
 ### 4. Workout Tracking:
 
-  Track your workouts, whether it's weightlifting, soccer, running, or other activities, and adjust your calorie intake accordingly and submit your values.
+    Track your workouts, whether it's weightlifting, soccer, running, or other activities, and adjust your calorie intake accordingly and submit your values.
 
 ![submitting today's values](images/s5.png)
 
 ### 5. Progress Tracking:
 
-  Here, users can view their progress over time, including their daily calorie intake and workout achievements you can view your previously recorded data in the add new day screen.
+    Here, users can view their progress over time, including their daily calorie intake and workout achievements you can view your previously recorded data in the add new day screen.
 
 ![stored values](images/s6.png)
 
